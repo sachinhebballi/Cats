@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Cats.API/obj
+/Cats.API/bin/Debug/netcoreapp2.2
+/Cats.Tests/bin/Debug/netcoreapp2.2
+/Cats.Tests/obj
+/.vs
